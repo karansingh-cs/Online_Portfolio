@@ -1,2 +1,2 @@
 # portfolio
-Responsive portfolio website
+Portfolio
